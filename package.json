@@ -50,6 +50,6 @@
   "dependencies": {
     "cashid": "latest",
     "react-qr-svg": "^2.1.0",
-    "styled-components": "^4.0.1"
+    "styled-components": "^5.2.3"
   }
 }
